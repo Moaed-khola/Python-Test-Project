@@ -48,4 +48,7 @@ Please type Y for YES or N for NO.
 calculate()
 print('See you later.')
 print('See you later.')
-
+print('See you later.')
+print('See you later.')
+print('See you later.')
+print('See you later.')
