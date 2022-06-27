@@ -3,7 +3,7 @@ from currency import *
 from temperature import * 
 
 print("===== Welcome to Value Converter =====")
-print("===== New Commit =====")
+
 while 1:
     print("Which option would you like to choose:-")
     print("1. Convert temperature")
